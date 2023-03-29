@@ -11,7 +11,7 @@ The Sysdig Windows Prometheus Bundle is a comprehensive package that installs an
 
 ## Getting Started
 To begin monitoring your Windows machines, follow these steps: 
-1. Download the binary installer from the latest release of this project
+1. Download the binary installer from the [latest release](https://github.com/sysdiglabs/Sysdig-Windows-Prometheus-Bundle/releases) of this project
 2. Run the installer in your windows machine
 3. Configure the [Sysdig region](https://docs.sysdig.com/en/docs/administration/saas-regions-and-ip-ranges/#sysdig-platform-regions) and your Sysdig API token in the wizard
 4. Select the collectors that you want to enable to produce metrics
