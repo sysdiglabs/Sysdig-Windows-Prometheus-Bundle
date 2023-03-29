@@ -1,7 +1,7 @@
 # Sysdig Windows Prometheus Bundle
 The Sysdig Windows Prometheus Bundle is a comprehensive package that installs and configures a [Prometheus Agent](https://prometheus.io/blog/2021/11/16/agent/) and the [Windows Exporter](https://github.com/prometheus-community/windows_exporter) allowing you to send metrics to your Sysdig Monitor account with ease. 
 
-<p align="center"><img src="./media/installer-1.png" > </img><img height="387px" src="./media/installer-2.png"> </p>
+<p align="center"><img height="300px" src="./media/installer-1.png" > </img><img height="300px" src="./media/installer-2.png"> </p>
 
 ## Key features: 
 * User-friendly visual installation wizard
