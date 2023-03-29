@@ -1,0 +1,5 @@
+This wizard will install the following applications: 
+
+- Windows-Exporter - [MIT License](https://github.com/prometheus-community/windows_exporter/blob/master/LICENSE)
+- Prometheus - [Apache License 2.0](https://github.com/prometheus/prometheus/blob/main/LICENSE)
+- NSSM - [Public domain](https://git.nssm.cc/nssm/nssm)
