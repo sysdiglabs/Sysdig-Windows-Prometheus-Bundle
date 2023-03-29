@@ -1,7 +1,7 @@
 # Sysdig Windows Prometheus Bundle
 The Sysdig Windows Prometheus Bundle is a comprehensive package that installs and configures a [Prometheus Agent](https://prometheus.io/blog/2021/11/16/agent/) and the [Windows Exporter](https://github.com/prometheus-community/windows_exporter) allowing you to send metrics to your Sysdig Monitor account with ease. 
 
-<p align="center"><img src="./media/installer-1.png" > </img></p>
+<p align="center"><img src="./media/installer-1.png" > </img><img height="387px" src="./media/installer-2.png"> </p>
 
 ## Key features: 
 * User-friendly visual installation wizard
@@ -9,12 +9,19 @@ The Sysdig Windows Prometheus Bundle is a comprehensive package that installs an
 * Prometheus Agent and Windows Exporter run as Windows services
 * Metrics enriched with Windows Domain and Instance host name for easy identification in Sysdig Monitor
 
+<p align="center"> </img></p>
+
 ## Getting Started
 To begin monitoring your Windows machines, follow these steps: 
 1. Download the binary installer from the [latest release](https://github.com/sysdiglabs/Sysdig-Windows-Prometheus-Bundle/releases) of this project
 2. Run the installer in your windows machine
 3. Configure the [Sysdig region](https://docs.sysdig.com/en/docs/administration/saas-regions-and-ip-ranges/#sysdig-platform-regions) and your Sysdig API token in the wizard
 4. Select the collectors that you want to enable to produce metrics
+5. Finish the installation
+6. Go to your Sysdig Monitor account and start using the [Microsoft Windows dashboards and alerts](https://docs.sysdig.com/en/docs/sysdig-monitor/integrations/integration-library/infrastructure-integrations/windows/)
+
+<p align="center"><img src="https://docs.sysdig.com/en/docs/sysdig-monitor/integrations/integration-library/infrastructure-integrations/windows/windows-process-overview-sysdig.png" width="700px"> </img></p>
+
 
 ## Automated installation
 You can automate the installation of the Sysdig Windows Prometheus Bundle across multiple machines using the command line or PowerShell.
